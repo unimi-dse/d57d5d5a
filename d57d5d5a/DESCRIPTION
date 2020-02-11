@@ -1,0 +1,12 @@
+Package: midtermmsleep
+Type: Package
+Title: The study of mammals sleep 
+Version: 0.1.0
+Author: Letizia Molinari
+Maintainer: Letizia Molinari <letymolly@gmail.com>
+Description: The package is about the study of mammals' sleep.    It aims to analyze the hours of sleep related to the class the mammal animal belongs to.    It also analyzes the connection between the type of conservation of the animal and the hours it stays awake.
+License: GNU General Public License
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse, devtools, roxygen2
+Depends: R (>= 2.10)
