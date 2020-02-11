@@ -13,3 +13,8 @@
     #require(midtermmsleep)
     
 ####### there are three functions in the package that are import(), visualanalysis() and depanalysis()
+ - the function import() allows the user to allow the dataset
+ - the function visualanalysis() reports the relations between the different variables with different graphs
+ - the function depanalysis() analyzes data making a regression between the variables, in order to find a connection within them 
+ 
+ 
