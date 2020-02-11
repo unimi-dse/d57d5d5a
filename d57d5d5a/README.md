@@ -5,5 +5,11 @@
 
 ## Installation
     # first install the R package "devtools" if not installed
-    devtools::install_github('unimi-dse/d57d5d5a')
+    devtools::install_github('letiziamolinari/midtermmsleep')
     
+## Usage
+ ####require the package midtermmsleep
+                   
+    #require(midtermmsleep)
+    
+####### there are three functions in the package that are import(), visualanalysis() and depanalysis()
