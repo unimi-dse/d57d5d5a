@@ -3,3 +3,6 @@
 #### Installation
       # first install the R package devtools if not installed
         devtools::install_github('unimi-dse/d57d5d5a')
+#### Usage
+###### load the package
+      # require(rprojectmsleep)
