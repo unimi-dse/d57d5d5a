@@ -1,0 +1,11 @@
+Package: mammals
+Type: Package
+Title: The study of mammals' sleeping hours.
+Version: 0.1.0
+Author: Letizia Molinari
+Maintainer: Letizia Molinari <letymolly@gmail.com>
+Description:  The package analyzes the sleeping hours of different mammals.    It aims to find a relationship between the hours it stays awake and its physical characteristics, such as genus, the type of conservation, the way the animal is fed.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: devtools, dplyr, ggplot2
