@@ -4,7 +4,7 @@
 
 ## Installation:
 
-#### First, install the package #devtools if not already installed:
+#### First, install the package 'devtools' if not already installed:
 
              devtools::install_github("unimi-dse/d57d5d5a")
 
@@ -16,7 +16,7 @@
 
 #### Data description:
 
-######Data come from the dataset msleep, which contains 11 variables: 
+##### Data come from the dataset msleep, which contains 11 variables: 
 
 | Variable | Description |
 | --- | ---|
